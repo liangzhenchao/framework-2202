@@ -1,4 +1,4 @@
-module framework
+module github.com/liangzhenchao/framework-2202
 
 go 1.22.2
 
